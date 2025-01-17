@@ -1,0 +1,46 @@
+//form and tables
+
+<center>
+    <h1>Student registeration form</h1>
+
+    <form>
+        <table border="1" >
+            <tr>
+                <td>name:</td> <td><input type="text" placeholder="enter your name"></td>
+            </tr>
+
+            <tr>
+                <td>age:</td> <td><input type="number" placeholder="enter your age"></td>
+            </tr>
+
+            <tr>
+                <td>address:</td> <td><input type="" name="" id=""placeholder="enter your address"> </td>
+            </tr>
+
+            <tr>
+                <td>dob:</td> <td><input type="date" name="" id="" placeholder="dob"></td>
+            </tr>
+            <tr>
+                <td>department:</td> <td><select>
+                    <option >
+                        ece
+                    </option>
+                    <option >
+                        cse
+                    </option>
+                    <option>
+                        mech
+                    </option>
+                    <option>
+                        bt
+                    </option>
+                </select></td>
+            </tr>
+
+
+            <tr>
+                <td></td> <td><input type="submit" name="" id=""></td>
+            </tr>
+        </table>
+    </form>
+</center>
